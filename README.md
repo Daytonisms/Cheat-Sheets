@@ -1,1 +1,1 @@
-# Cheat-Sheets
+# ML & AI projects
